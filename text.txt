@@ -13,3 +13,7 @@ python manage.py tailwind install
 # create app
 python manage.py startapp chai
 
+# start app
+python manage.py runserver
+python manage.py tailwind start
+
